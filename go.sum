@@ -1,0 +1,5 @@
+github.com/devfacet/gocmd v1.0.1 h1:uDIGQmGldyoSQz6BCn072kq1Vf+KeBYpuRHbG0TnZIw=
+github.com/devfacet/gocmd v3.1.0+incompatible h1:dq4kjebjkOcUuLZkft+EiOBkqykg/gyGkmmwXlCknAE=
+github.com/devfacet/gocmd v3.1.0+incompatible/go.mod h1:x7gvjyNNC603UbXm9tJYAe0TDEtbNsJqsqy5mjKyNaA=
+github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
+github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
